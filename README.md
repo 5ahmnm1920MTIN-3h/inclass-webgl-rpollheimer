@@ -17,12 +17,17 @@ Installation process, e.g. step by step instructions that I can run the project 
 
 ### Third party material: 
 (if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+none
 
-### Project state: 
-initiated project
+### Project state:
+100%
 
-### Limitations: 
+### Limitations: None
 
 ### Lessons Learned: 
+* switch platform from standalone to WebGL
+* Build WebGL 
+* Github Pages, with docs
 
-Copyright by Reinhar Pollheimer
+
+Copyright by Reinhard Pollheimer
